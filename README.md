@@ -31,7 +31,6 @@
 ### 🛒 **Seamless Shopping Experience**
 - **Description**: Users can browse, select, and order their favorite food and beverages with ease.
 - **Technologies**: Flutter, Firebase, Node.js
-- ![Shopping GIF](https://media.giphy.com/media/j5LJ3R5yivm6Vp8E4q/giphy.gif)
 
 ### 🗣️ **Social Networking**
 - **Description**: Stay connected with friends, share posts, and interact effortlessly.
