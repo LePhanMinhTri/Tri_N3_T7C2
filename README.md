@@ -3,48 +3,55 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<h1 align="center">
+  Welcome to <span style="color:#F37044;">HuflitMobile</span>! 📱
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F37044&center=true&vCenter=true&width=435&lines=Information+Technology+Student;Website+Development+Enthusiast;Aspiring+UI+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F37044&center=true&vCenter=true&width=435&lines=HuflitMobile+Application;Convenient+Mobile+Experience;Connecting+Users+Effortlessly" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Welcome to my GitHub space! I'm an IT student passionate about <span style="color:#F37044;">web development</span> and <span style="color:#F37044;">UI design</span>. 🌟 </b>
+  <b>Experience the future of mobile technology with <span style="color:#F37044;">HuflitMobile</span>! Your one-stop app for seamless connectivity and interaction.</b>
 </p>
 
 ---
 
-## ✨ About Me
+## ✨ About HuflitMobile
 
-- 🎓 I'm pursuing **Information Technology** at the **University of Foreign Languages and Information Technology (HUFLIT)**.
-- 🚀 My favorite job is **website development**, and I’m always seeking to learn and enhance my UI/UX design skills.
-- 🛠️ I’m currently working on a **blog platform** with user registration, login, article posting, and comment functionalities.
-- 👨‍💻 Check out some of my latest projects below!
+- 📱 **HuflitMobile** is a powerful app designed to enhance user convenience in shopping, social networking, and online interactions.
+- 🚀 Features include **user registration, login**, posting articles, **ordering** food and beverages, and much more.
+- 💼 Developed by IT students at **HUFLIT University** with a focus on user-friendly interfaces and top-notch performance.
 
 ---
 
-## 📚 Current Projects
+## 🚀 Core Features
 
-### 📱 **Huflit Food**
-- **Description**: A mobile app designed for food and beverage shopping and ordering.
-- **Technologies**: Flutter, Node.js, MongoDB
-- ![Project GIF](https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif)
-
-### 🗣️ **Huflit Connect**
-- **Description**: A social networking app to help users connect, share, and interact with friends.
+### 🛒 **Seamless Shopping Experience**
+- **Description**: Users can browse, select, and order their favorite food and beverages with ease.
 - **Technologies**: Flutter, Firebase, Node.js
-- ![Social Networking GIF](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
+- ![Shopping GIF](https://media.giphy.com/media/j5LJ3R5yivm6Vp8E4q/giphy.gif)
+
+### 🗣️ **Social Networking**
+- **Description**: Stay connected with friends, share posts, and interact effortlessly.
+- **Technologies**: Flutter, Firebase
+- ![Social Networking GIF](https://media.giphy.com/media/l41lISBVrcd8V69ra/giphy.gif)
+
+### 📱 **User-friendly Interface**
+- **Description**: Easy-to-navigate UI designed with simplicity and usability in mind.
+- **Technologies**: Flutter, Dart
+- ![UI Design GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
 ## ⚙️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-F37044?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
@@ -79,7 +86,8 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
